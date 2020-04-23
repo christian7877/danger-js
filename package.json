@@ -144,7 +144,7 @@
     "get-stdin": "^6.0.0",
     "gitlab": "^10.0.1",
     "http-proxy-agent": "^2.1.0",
-    "https-proxy-agent": "^2.2.1",
+    "https-proxy-agent": "^2.2.4",
     "hyperlinker": "^1.0.0",
     "json5": "^2.1.0",
     "jsonpointer": "^4.0.1",
